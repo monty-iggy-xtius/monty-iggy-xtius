@@ -3,11 +3,11 @@
 <img align="right" alt="Programmer" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
 
-- 🔭 I’m currently working on **Python applications**
+- 🔭 I’m currently working on **Flutter applications**
 
 - 👯 I’m looking to collaborate on **any thrilling projects**
 
-- 💬 Ask me about **Python, Linux, Android, Cybersecurity**
+- 💬 Ask me about **Python, Flutter, Linux, Android, Cybersecurity**
 
 - 📫 How to reach me **monmihalo2324@gmail.com**
 
