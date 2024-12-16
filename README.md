@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Monty Iggy</h1>
-<h3 align="center">A creative full stack software developer</h3>
+<h3 align="center">A disruptive full stack software developer</h3>
 <img align="right" alt="Programmer" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
 
-- 🔭 I’m currently working on **Flutter applications**
+- 🔭 I’m currently working on **Python and Flutter applications**
 
 - 👯 I’m looking to collaborate on **any thrilling projects**
 
